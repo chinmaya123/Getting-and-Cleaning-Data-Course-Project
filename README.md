@@ -1,6 +1,3 @@
----
-title: <u>README</u>
----
 
 ## Human Activity Recognition Using Smartphones Dataset
 

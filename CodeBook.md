@@ -1,6 +1,3 @@
----
-title: "<u>CodeBook</u>"
----
 
 ## *run_analysis.R* script performs the data cleaning and preparation.
 
